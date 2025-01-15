@@ -73,4 +73,11 @@ nav ul li a:hover {
     color: #0056b3;
     text-decoration: underline;
 }
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRCB7KCsz0-mHk8drp4BRbZTWbhU9dW7XEA&s); /* Replace 'background.jpg' with the path to your image */
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Centers the image */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+    color: #fff; /* Optional: Makes text color white for contrast */
+}
 
